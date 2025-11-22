@@ -9,7 +9,7 @@
 1. Clonar el repositorio (con submódulos):
 
 ```bash
-git clone --recurse-submodules <url-del-repo>
+git clone --recurse-submodules https://github.com/manuelmartinezr/cnn-cancer-classification.git
 cd cnn-cancer-classification
 ```
 
