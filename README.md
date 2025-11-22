@@ -11,10 +11,15 @@
 ```bash
 git clone --recurse-submodules <url-del-repo>
 cd cnn-cancer-classification
+```
 
 2. Construir y levantar los contenedores:
+```bash
 docker compose up --build
+```
 
 3. Abrir el navegador:
+```bash
 Frontend: http://localhost:8080
 Backend FastAPI (opcional, docs): http://localhost:8000/docs
+```
